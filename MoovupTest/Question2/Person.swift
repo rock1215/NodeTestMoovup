@@ -82,7 +82,6 @@ class Person: NSObject {
         ]
         
         AF.request(url, headers: headers).responseJSON { response in
-            print(response)
             switch(response.result) {
             case .success(let value):
                 if let results = value as? [[String: Any]] {
