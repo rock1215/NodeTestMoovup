@@ -1,13 +1,17 @@
 # Moovup Test Project.
 
-# Install instruction.
+## Install instruction.
 
-## Clone project.
+### Clone project.
 
-## Install dependency.
+```
+git clone https://github.com/rock1215/NodeTestMoovup
+```
 
-## Open MoovupTest.xcworkspace file in XCode.
+### Install dependency.
 
-# Test 1.
+### Open MoovupTest.xcworkspace file in XCode.
 
-# Test 2.
+## Test 1.
+
+## Test 2.
