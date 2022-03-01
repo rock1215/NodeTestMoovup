@@ -21,4 +21,13 @@ pod install
 
 ## Test 1.
 
+In XCode.
+1. Show the tests navigator. (View/Navigators/Tests)
+![Alt text](/screenshot/screenshot_open.png?raw=true "Test Page")
+2. Click testQuestion1() and run it.
+3. Check xcode console.(You can see the list printed.)
+
 ## Test 2.
+
+run the project in simulator.
+You can see the tabview with list and map.
