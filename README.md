@@ -23,7 +23,7 @@ pod install
 
 In XCode.
 1. Show the tests navigator. (View/Navigators/Tests)
-![Alt text](/screenshot/screenshot_open.png?raw=true "Test Page")
+![Alt text](/screenshot/screenshot_test.png?raw=true "Test Page")
 2. Click testQuestion1() and run it.
 3. Check xcode console.(You can see the list printed.)
 
