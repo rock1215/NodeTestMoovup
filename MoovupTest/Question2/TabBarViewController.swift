@@ -23,13 +23,13 @@ class TabBarViewController: UITabBarController, UITabBarControllerDelegate {
         
         let tabList = UINavigationController(rootViewController: ListViewController())
         
-        let tabListBarItem = UITabBarItem(title: "List View", image: nil, selectedImage: nil)
+        let tabListBarItem = UITabBarItem(title: "List View", image: UIImage(systemName: "person.3.fill"), selectedImage: UIImage(systemName: "person.3.fill"))
         
         tabList.tabBarItem = tabListBarItem
         
         let tabMap = MapViewController()
         
-        let tabMapBarItem = UITabBarItem(title: "Map View", image: nil, selectedImage: nil)
+        let tabMapBarItem = UITabBarItem(title: "Map View", image: UIImage(systemName: "map"), selectedImage: UIImage(systemName: "map"))
         
         tabMap.tabBarItem = tabMapBarItem
         
