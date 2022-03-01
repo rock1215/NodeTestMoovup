@@ -17,6 +17,8 @@ pod install
 
 ### Open MoovupTest.xcworkspace file in XCode.
 
+![Alt text](/screenshot/screenshot_open.png?raw=true "Opening Page")
+
 ## Test 1.
 
 ## Test 2.
