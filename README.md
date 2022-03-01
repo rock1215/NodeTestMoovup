@@ -31,3 +31,4 @@ In XCode.
 
 run the project in simulator.
 You can see the tabview with list and map.
+![Alt text](/screenshot/screenshot_result.png?raw=true "Result Page")
